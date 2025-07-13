@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="imagen-github2.jpg" width="200" style="border-radius: 10px;" alt="Foto de Lucía Pérez"/>
+  <img src="imagen-github2.JPG" width="200" style="border-radius: 10px;" alt="Foto de Lucía Pérez"/>
 </p>
 
 <p align="center">
