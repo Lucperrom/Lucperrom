@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Lucía Pérez
 
-<!--
-**Lucperrom/Lucperrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniera Informática especializada en Ingeniería del Software y Cloud por la Universidad de Sevilla  
+💻 Apasionada por el desarrollo web y el aprendizaje automático  
+📚 Actualmente aprendiendo React y Python
 
-Here are some ideas to get you started:
+## 📈 Estadísticas de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucperrom&show_icons=true&theme=tokyonight" />
+
+## 🛠️ Lenguajes y herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## 📫 Cómo contactarme
+- [LinkedIn](https://www.linkedin.com/in/lucía-pérez-romero-4a3669197/)
+- Correo: luciaperez.dev@gmail.com
