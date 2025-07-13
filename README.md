@@ -1,12 +1,22 @@
 # ¡Hola! 👋 Soy Lucía Pérez
 
-🎓 Ingeniera Informática especializada en Ingeniería del Software y Cloud por la Universidad de Sevilla  
+<br>
+
+<p align="center">
+  <img src="assets/imagen-github.jpg" width="200" style="border-radius: 10px;" alt="Foto de Lucía Pérez"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bienvenido%2Fa+a+mi+perfil" alt="Typing SVG" />
+</p>
+
+🎓 Ingeniera Informática especializada en Ingeniería del Software y Cloud Infrastructure por la Universidad de Sevilla  
 💻 Apasionada por el desarrollo web y el aprendizaje automático  
-📚 Actualmente aprendiendo React y Python
+📚 Actualmente aprendiendo 
 
 ## 📈 Estadísticas de GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucperrom&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucperrom&show_icons=true&theme=tokyonight" />
 
 ## 🛠️ Lenguajes y herramientas
 
