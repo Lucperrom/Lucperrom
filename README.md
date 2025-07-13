@@ -12,7 +12,7 @@
 
 🎓 Ingeniera Informática especializada en Ingeniería del Software y Cloud Infrastructure por la Universidad de Sevilla  
 💻 Apasionada por el desarrollo web y el aprendizaje automático  
-📚 Actualmente aprendiendo 
+📚 Actualmente aprendiendo sobre Google Cloud, Terraform y Jenkins
 
 ## 📈 Estadísticas de GitHub
 
@@ -88,6 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
 </p>
 
 </details>
