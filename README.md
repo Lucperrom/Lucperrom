@@ -8,7 +8,7 @@
   <tr>
     <!-- Columna izquierda: imagen y texto animado -->
     <td align="center" width="50%">
-      <img src="imagen-github2.JPG" width="200" style="border-radius: 10px;" alt="Foto de Lucía Pérez"/><br><br>
+      <img src="github2" width="200" style="border-radius: 10px;" alt="Foto de Lucía Pérez"/><br><br>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Bienvenido%2Fa+a+mi+perfil" alt="Typing SVG" />
     </td>
     <!-- Columna derecha: estadísticas -->
